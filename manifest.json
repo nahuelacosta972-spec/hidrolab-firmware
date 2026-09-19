@@ -1,0 +1,26 @@
+{
+  "build": {
+    "compiled_flash_used_bytes": 1188081,
+    "global_ram_budget_bytes": 180000,
+    "global_ram_used_bytes": 110596,
+    "release_flash_budget_bytes": 1650000
+  },
+  "channel": "stable",
+  "commit": "adc6e35240b24577b818afeb04732f64abc41d8b",
+  "compatibility": {
+    "app_slot_bytes": 1900544,
+    "chip_family": "ESP32",
+    "esp32_core": "3.3.10",
+    "fqbn": "esp32:esp32:esp32",
+    "partition_layout": "hidrolab-4m-dual-ota-v1"
+  },
+  "firmware": {
+    "sha256": "790244b5e362429e8e2a0da40435381cace57845092a0aa85b1fc483ba7fa0a0",
+    "size_bytes": 1188224,
+    "url": "https://raw.githubusercontent.com/nahuelacosta972-spec/hidrolab-firmware/main/firmware/0.7.0/WebLab.ino.bin"
+  },
+  "notes": "Base OTA HidroLab 0.7.0 validada en hardware",
+  "published_at": "2026-09-19T20:10:29Z",
+  "schema": 1,
+  "version": "0.7.0"
+}

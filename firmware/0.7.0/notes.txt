@@ -1,0 +1,1 @@
+Base OTA HidroLab 0.7.0 validada en hardware
