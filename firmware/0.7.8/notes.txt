@@ -1,0 +1,1 @@
+Bootstrap seguro HidroLab 0.7.8: firma ECDSA y rollback

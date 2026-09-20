@@ -1,0 +1,1 @@
+5f573e95d2da2eaad70e35a06706e7cad0845e7cd909e00ae19f9a914bba527d  ota-package/firmware/0.7.8/WebLab.ino.bin
