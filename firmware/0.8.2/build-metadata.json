@@ -1,0 +1,17 @@
+{
+  "app_slot_bytes": 1900544,
+  "commit": "825ad6e56b68782a8fb3af72c3b8963659f0a76b",
+  "compiled_flash_used_bytes": 1347748,
+  "compiler_reported_flash_max_bytes": 1900544,
+  "esp32_core": "3.3.10",
+  "firmware": "WebLab.ino.bin",
+  "firmware_size_bytes": 1347904,
+  "fqbn": "esp32:esp32:esp32",
+  "global_ram_budget_bytes": 180000,
+  "global_ram_max_bytes": 327680,
+  "global_ram_used_bytes": 113720,
+  "release_flash_budget_bytes": 1650000,
+  "schema": 1,
+  "sha256": "6c1925098d6ce454b76ebecf414365c29de4a2d531403f62767968b0315756d1",
+  "version": "0.8.2"
+}
